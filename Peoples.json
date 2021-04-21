@@ -1,0 +1,42 @@
+{
+  "Peoples": [
+    {
+      "Id" : 1,
+      "Gender": "Male",
+      "HeightCm": 171,
+      "WeightKg": 96
+    },
+    {
+      "Id" : 2,
+      "Gender": "Male",
+      "HeightCm": 161,
+      "WeightKg": 85
+    },
+    {
+      "Id" : 3,
+      "Gender": "Male",
+      "HeightCm": 180,
+      "WeightKg": 77
+    },
+    {
+      "Id" : 4,
+      "Gender": "Female",
+      "HeightCm": 166,
+      "WeightKg": 62
+    },
+    {
+      "Id" : 5,
+      "Gender": "Female",
+      "HeightCm": 150,
+      "WeightKg": 70
+    },
+    {
+      "Id" : 6,
+      "Gender": "Female",
+      "HeightCm": 167,
+      "WeightKg": 82
+    }
+  ]
+}
+
+
